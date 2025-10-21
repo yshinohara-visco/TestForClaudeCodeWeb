@@ -1,1 +1,3 @@
 # TestForClaudeCodeWeb
+Claude Code on the web から編集する機能を試すためのプロジェクト。
+GitHub上でCodespacesとかいう機能で直接編集できるのを始めて知った。
